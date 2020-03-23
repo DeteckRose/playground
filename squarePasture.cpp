@@ -10,3 +10,11 @@ using namespace std;
 //subtract lowest x value from highest x value
 //evaluate d(y) > d(x), square which ever value is greater.
 //return that value as the new square.
+
+/*
+ok here r some notes abt min and max
+the function min(value1, value2) will return the minimum of the two, and max works the same way
+for example if u wanted a variable called best to be the maximum of variables a and b, you would write something like
+int best = max(a, b);
+use that to find the highest and lowest x adn y values
+*/
